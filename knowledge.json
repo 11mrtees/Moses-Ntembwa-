@@ -1,0 +1,436 @@
+{
+ "settings": {
+  "whatsapp": "260771043702",
+  "fallback": "I understand you. Honestly, I am not sure about this one, and I do not want to give you wrong information. Please ask in other words (for example: HELSB, TPIN, appeal, accommodation), or confirm with Moses on WhatsApp. For university things, you can also check the official office.",
+  "distress": "I am sorry you are going through this. Take a deep breath, you are not alone. Please tell me a little more about what is happening. If it needs a real person, Moses can help you on WhatsApp."
+ },
+ "entries": [
+  {
+   "id": "helsb_contact",
+   "keywords": [
+    "helsb support email",
+    "helsb email",
+    "helsb support",
+    "helsb contact",
+    "helsb phone",
+    "helsb number",
+    "helsb address",
+    "helsb office",
+    "helsb website",
+    "contact helsb"
+   ],
+   "answer": "Official HELSB contacts (from the HELSB website):\nEmail: info@helsb.gov.zm\nPhone: +260 211 250 726\nWebsite: helsb.gov.zm\nOffice: Plot 8, United Church of Zambia Synod, Mosi-O-Tunya Road, Woodlands, Lusaka.\nPlease confirm on the website in case something has changed."
+  },
+  {
+   "id": "greeting",
+   "keywords": [
+    "hello",
+    "hi",
+    "hey",
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "mwapoleni",
+    "muli shani",
+    "howzit",
+    "how are you"
+   ],
+   "answer": "{greeting}! I am Moses Ntembwa (MR TEES) AI. I am an automated assistant, not Moses himself. I can help with HELSB, TPIN, ZAQA, appeals, screening, accommodation, deadlines and more. What do you want to know?"
+  },
+  {
+   "id": "who_are_you",
+   "keywords": [
+    "who are you",
+    "are you moses",
+    "are you a robot",
+    "are you human",
+    "are you real",
+    "who is mr tees",
+    "introduce yourself",
+    "introduce",
+    "your name",
+    "what is your name",
+    "tell me about yourself",
+    "about you",
+    "what are you",
+    "ask mr tees",
+    "what is mr tees"
+   ],
+   "answer": "{greeting}! Thank you for reaching out to MR TEES. I am Ask MR TEES, also called Moses Ntembwa (MR TEES) AI, the digital assistant of Moses Ntembwa, a student at Kapasa Makasa University in Chinsali. I am an AI, not Moses himself. I help with university applications, HELSB, ECZ and ZAQA verification, scholarships and other education questions. What would you like to know?"
+  },
+  {
+   "id": "registration_fee",
+   "keywords": [
+    "registration fee",
+    "register",
+    "registration",
+    "sign up",
+    "create account",
+    "how much to register",
+    "joining fee"
+   ],
+   "answer": "Registration is K20, paid one time only. You do not pay it again for the next request. Service charges are separate, and you pay them before the service starts."
+  },
+  {
+   "id": "service_price",
+   "keywords": [
+    "price",
+    "prices",
+    "cost",
+    "how much",
+    "charge",
+    "charges",
+    "pay for service"
+   ],
+   "answer": "Registration is K20 (one time). Each service has its own charge, paid before we start. If I do not have an approved price for your request, please confirm the price with Moses first."
+  },
+  {
+   "id": "services",
+   "keywords": [
+    "services",
+    "what do you do",
+    "what do you offer",
+    "help with",
+    "offer",
+    "assist"
+   ],
+   "answer": "We help with:\n• University admissions\n• HELSB support\n• ECZ and ZAQA verification\n• School and university information\n• Scholarships, bursaries and other chances\n\nWhich one do you need?"
+  },
+  {
+   "id": "love",
+   "keywords": [
+    "love",
+    "what is love",
+    "relationship",
+    "girlfriend",
+    "boyfriend"
+   ],
+   "answer": "For me, love is care, patience, prayer and staying loyal even when things are hard. Be respectful, do not rush, and pray first."
+  },
+  {
+   "id": "know_love",
+   "keywords": [
+    "how do i know i love",
+    "know you love",
+    "know i love someone"
+   ],
+   "answer": "When you think about their happiness before yours, and you pray for them, that is a good sign. Take your time."
+  },
+  {
+   "id": "family",
+   "keywords": [
+    "family",
+    "parents",
+    "mother",
+    "father",
+    "brother",
+    "sister"
+   ],
+   "answer": "Family is home, love, support and prayer. Keep close to your family, and thank them for every small help."
+  },
+  {
+   "id": "bible",
+   "keywords": [
+    "bible",
+    "verse",
+    "favourite verse",
+    "church",
+    "pray",
+    "prayer",
+    "god"
+   ],
+   "answer": "Prayer is talking to God like a father. A good verse to remember is Jeremiah 29:11: God knows the plans He has for you, plans to give you hope and a future."
+  },
+  {
+   "id": "admissions",
+   "keywords": [
+    "admission",
+    "admissions",
+    "apply university",
+    "apply to university",
+    "application",
+    "applications",
+    "entry requirements",
+    "intake",
+    "accepting applications",
+    "kapasa",
+    "acceptance",
+    "how do i apply",
+    "accepted"
+   ],
+   "answer": "To apply to a university, usually you:\n1. Go to the university website or admissions office\n2. Fill the application form\n3. Attach your Grade 12 results and NRC\n4. Pay the application fee\n5. Submit before the deadline\n\nDates and fees change every year, so please confirm with the official office. Which university and programme do you want?"
+  },
+  {
+   "id": "helsb",
+   "keywords": [
+    "helsb",
+    "loan",
+    "student loan",
+    "bursary",
+    "loan board",
+    "helsb portal",
+    "apply helsb",
+    "status number"
+   ],
+   "answer": "HELSB means Higher Education Loans and Scholarships Board. It gives student loans and bursaries in Zambia. Usually you need acceptance at a public university first.\n\nTo apply: use the HELSB online portal, fill the form, upload your documents (acceptance letter, Grade 12 results, NRC, parents' NRC) and submit before the deadline. Apply early, be honest, keep copies.\n\nWhich part is hard for you?"
+  },
+  {
+   "id": "helsb_guarantee",
+   "keywords": [
+    "guarantee loan",
+    "will i get a loan",
+    "sure of loan",
+    "promise loan",
+    "can you guarantee"
+   ],
+   "answer": "I wish I could promise that, but I cannot. Loan awards depend on HELSB's official selection. What I can do is help you understand the requirements and prepare your application well."
+  },
+  {
+   "id": "helsb_coverage",
+   "keywords": [
+    "is university under helsb",
+    "covered by helsb",
+    "helsb covered",
+    "helsb list",
+    "does helsb fund",
+    "is kmu under helsb",
+    "does helsb cover kmu",
+    "kmu helsb",
+    "kapasa makasa helsb",
+    "which universities helsb",
+    "helsb universities"
+   ],
+   "answer": "According to the HELSB website, student loans are given to undergraduate students joining UNZA, CBU, KMU, MKU, MU, CHAU and KNU. Yes, KMU is on that list. Policies can change, so please confirm on helsb.gov.zm.",
+   "source": "helsb.gov.zm/how-to-apply-loans"
+  },
+  {
+   "id": "appeal",
+   "keywords": [
+    "appeal",
+    "appeals",
+    "not accepted",
+    "rejected",
+    "not awarded",
+    "denied"
+   ],
+   "answer": "An appeal is a formal letter asking them to look at your case again, when you were not accepted or not awarded. Write calmly and honestly, say what happened, and attach proof. Don't give up, many people try again."
+  },
+  {
+   "id": "screening",
+   "keywords": [
+    "screening",
+    "screen",
+    "original documents"
+   ],
+   "answer": "Screening is when the university or HELSB checks your original documents with their own eyes. Carry all your originals and copies, and arrive early."
+  },
+  {
+   "id": "zaqa",
+   "keywords": [
+    "zaqa",
+    "foreign results",
+    "qualification",
+    "qualifications",
+    "ecz",
+    "verification",
+    "verify",
+    "certificate",
+    "statement of results"
+   ],
+   "answer": "ZAQA is the Zambia Qualifications Authority. It checks that qualifications are real, especially foreign results. ECZ results are checked through ECZ. Tell me which one you need (ECZ or ZAQA) and I will guide you step by step."
+  },
+  {
+   "id": "accommodation",
+   "keywords": [
+    "accommodation",
+    "hostel",
+    "boarding",
+    "where to stay",
+    "room"
+   ],
+   "answer": "After you are accepted, apply for accommodation through the student affairs office and pay the fee. Apply early and keep your receipt."
+  },
+  {
+   "id": "deadline",
+   "keywords": [
+    "deadline",
+    "last date",
+    "closing date",
+    "when does it close"
+   ],
+   "answer": "A deadline is the last day to submit. If you miss it, you may lose your chance. Do not wait for the last day, and I will not guess dates for you. Please check the official notice."
+  },
+  {
+   "id": "tpin",
+   "keywords": [
+    "tpin",
+    "zra",
+    "tax number",
+    "taxpayer"
+   ],
+   "answer": "TPIN means Taxpayer Identification Number, from ZRA. Go to a ZRA office or the ZRA website with your NRC and register. It is free. Get it early, because you may need it for HELSB."
+  },
+  {
+   "id": "scholarships",
+   "keywords": [
+    "scholarship",
+    "scholarships",
+    "bursaries",
+    "sponsorship",
+    "grant",
+    "funding",
+    "financial support",
+    "fully funded"
+   ],
+   "answer": "HELSB is not the only way. There are scholarships, bursaries, sponsorships and grants. Always check if it is fully funded, partly funded or tuition only. And never pay a strange fee to get a scholarship. A real one has an official source."
+  },
+  {
+   "id": "money_problem",
+   "keywords": [
+    "no money",
+    "broke",
+    "cannot afford",
+    "can't afford",
+    "poor",
+    "balance is crying",
+    "no fees",
+    "school fees"
+   ],
+   "answer": "Hahaha, even the bank account needs encouragement sometimes! But do not give up. Let us look at cheaper schools, chances to apply, and any financial help. What programme do you want?"
+  },
+  {
+   "id": "password_safety",
+   "keywords": [
+    "password",
+    "pin",
+    "my login",
+    "send my password",
+    "login details",
+    "otp"
+   ],
+   "answer": "Please never share your password, PIN or OTP with me, Moses or anyone in chat. Keep them private. For account problems, use the official website."
+  },
+  {
+   "id": "payment",
+   "keywords": [
+    "airtel money",
+    "mtn",
+    "momo",
+    "payment",
+    "paid",
+    "i have paid",
+    "send money",
+    "mobile money"
+   ],
+   "answer": "You can pay with Airtel Money or MTN MoMo. I cannot confirm a payment myself. It counts only after it shows in the payment records. After paying, send your proof to Moses on WhatsApp."
+  },
+  {
+   "id": "request_status",
+   "keywords": [
+    "status",
+    "my request",
+    "is it done",
+    "completed",
+    "pending",
+    "processing",
+    "progress",
+    "update on my"
+   ],
+   "answer": "A request is either submitted, pending, processing or completed. I cannot say it is completed unless the records show it. Please send your name and request details to Moses on WhatsApp."
+  },
+  {
+   "id": "contact_moses",
+   "keywords": [
+    "contact",
+    "whatsapp",
+    "talk to moses",
+    "speak to someone",
+    "call",
+    "phone number",
+    "real person"
+   ],
+   "answer": "No problem. Tap the green WhatsApp button below to reach Moses. It is best for serious or special cases."
+  },
+  {
+   "id": "thanks",
+   "keywords": [
+    "thanks",
+    "thank you",
+    "thank",
+    "appreciate",
+    "zikomo",
+    "natotela"
+   ],
+   "answer": "You are most welcome! God bless you. Ask me anything else, any time."
+  },
+  {
+   "id": "moses_personal",
+   "keywords": [
+    "are you married",
+    "are you single",
+    "do you have a wife",
+    "do you have a girlfriend",
+    "how old are you",
+    "where do you live",
+    "who is moses",
+    "about moses",
+    "moses ntembwa"
+   ],
+   "answer": "I am an AI, so I do not have a family or an age. Moses Ntembwa (MR TEES) is a young student at Kapasa Makasa University in Chinsali, studying Information Systems and Business Analytics, and the founder of MR TEES Education Services. For personal questions, message him on WhatsApp (0771043702)."
+  },
+  {
+   "id": "helsb_interest",
+   "keywords": [
+    "interest rate",
+    "helsb interest",
+    "interest on loan",
+    "how much interest"
+   ],
+   "answer": "According to the HELSB FAQ, the interest rate on student loans is 10 percent amortized per year. Always read your loan agreement for the exact terms.",
+   "source": "helsb.gov.zm/faq"
+  },
+  {
+   "id": "helsb_covers",
+   "keywords": [
+    "what does helsb loan cover",
+    "loan cover",
+    "does the loan pay tuition",
+    "allowances"
+   ],
+   "answer": "HELSB loans cater for tuition fees, accommodation fees, meal allowances, book allowances and project allowances.",
+   "source": "helsb.gov.zm/loans"
+  },
+  {
+   "id": "helsb_loan_or_scholarship",
+   "keywords": [
+    "loan and scholarship",
+    "both loan and scholarship",
+    "apply for both"
+   ],
+   "answer": "You can apply for both a loan and a scholarship, but HELSB says an applicant cannot be awarded both.",
+   "source": "helsb.gov.zm/faq"
+  },
+  {
+   "id": "helsb_repay",
+   "keywords": [
+    "repay",
+    "repayment",
+    "pay back",
+    "when do i pay back"
+   ],
+   "answer": "Students repay their loans one year after leaving school. The exact terms are in your loan agreement, so please read it carefully.",
+   "source": "helsb.gov.zm"
+  },
+  {
+   "id": "helsb_certified",
+   "keywords": [
+    "certified",
+    "certify",
+    "certification",
+    "certified copies"
+   ],
+   "answer": "HELSB asks applicants to make sure all documents are certified by the relevant authorities before they submit.",
+   "source": "helsb.gov.zm/how-to-apply-loans"
+  }
+ ]
+}
